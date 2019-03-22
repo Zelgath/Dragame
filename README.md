@@ -3,7 +3,8 @@ Dragon game
 Last edit: 22.03.2019
 Good Morning everyone, welcome to the DraGame ReadMe file.
 Game is still under development, there are many things which has
-to be improved, but the main functions are working.
+to be improved, but the main functions are working. Insert image files
+in folder "images" created in game folder file
 
 The main loop is inside a file Dragame.py
 Every class has it's own .py file - there are 6 in summary.
